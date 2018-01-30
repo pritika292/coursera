@@ -1,0 +1,78 @@
+body {
+	font-size: 20px;
+	font-family: "Optima", sans-serif;
+	color:black;
+}
+ h1
+{
+	color: black;
+	font-weight: bold;
+	margin-bottom: 25px;
+	font-family: 'Oxygen', sans-serif;
+
+}
+#header-nav{
+	height:80px;
+	background-color:  #A9A9A9; 
+	border-radius: 0;
+    border: 2px black solid;
+
+}
+h1{
+	text-align: left;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+ 
+.navbar-header button.navbar-toggle,.navbar-header.icon-bar{
+	border:1px solid black;
+}
+.navbar-toggle
+{
+	margin-top: 35px;
+}
+#description
+{
+	background-color: #A9A9A9;
+	padding-top: 15px;
+	font-family: 'Oxygen', sans-serif;
+}
+#description p
+{
+	line-height: 1.5;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+#page-heading
+{
+	font-size: 1.5em;
+	margin-bottom: 30px;
+	font-weight: bold;
+
+}
+.mname{
+	padding-top: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	border-bottom: 2px solid black;
+}
+#nav-list
+{
+	background-color: #A52A2A;
+	text-align: center;
+	margin-top: -5px;
+}
+#nav-list .mname:hover {
+  background: #E7E7E7;
+}
+#description .food-heading
+{
+	font-size: 1.2em;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	font-weight: bold;
+}
