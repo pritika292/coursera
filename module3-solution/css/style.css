@@ -9,8 +9,6 @@ body {
 	font-weight: bold;
 	margin-bottom: 25px;
 	font-family: 'Oxygen', sans-serif;
-	text-align: left;
-	margin-top: 10px;
 
 }
 #header-nav{
@@ -18,6 +16,11 @@ body {
 	background-color:  #A9A9A9; 
 	border-radius: 0;
     border: 2px black solid;
+
+}
+h1{
+	text-align: left;
+	margin-top: 10px;
 
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -36,6 +39,7 @@ body {
 	background-color: #A9A9A9;
 	padding-top: 15px;
 	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 10px;
 }
 #description p
 {
